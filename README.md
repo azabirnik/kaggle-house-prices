@@ -7,8 +7,8 @@ The goal of the code is to search for the best macroparameters for this task.
 
 ### How to use
 
-I don't provide `requirements.txt` to one should use the versions used in his or her Kaggle notebook.
-1. Run the code several times as see in which direction which macroparameters should be changed.
+I don't provide `requirements.txt` as one should use the versions used in his or her Kaggle notebook.
+1. Run the code several times to see in which direction which macroparameters should be changed.
 2. Change the parameters in notebook and try several coomits with slightly different macroparameters and different seed (to cope overlearning on train dataset).
 
 ### My final leaderscore
