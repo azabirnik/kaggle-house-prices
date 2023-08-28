@@ -13,4 +13,4 @@ I don't provide `requirements.txt` as one should use the versions used in his or
 
 ### My final leaderscore
 
-At the time I write this (2023, August 28) my best score is $0.11943$ which is top-110. Taking into account that scores below $0.11529$ which is top-65 are 'data leak scores' (becacuse the next score is $0.10006$ my honest leaderboard position is $110 - 64 = 46$ out of more then $4000$ participants. That is for this competition I hit top $1.2$% target.
+At the time I write this (2023, August 28) [my best score](https://www.kaggle.com/alekseizabirnik/hp-with-ols-and-macroparams-optimization) is $0.11943$ which is top-110. Taking into account that scores below $0.11529$ which is top-65 are 'data leak scores' (becacuse the next score is $0.10006$ my honest leaderboard position is $110 - 64 = 46$ out of more then $4000$ participants. That is for this competition I hit top $1.2$% target.
