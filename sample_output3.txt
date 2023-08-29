@@ -1,0 +1,204 @@
+.......... base_score=0.12234431841523644
+.......... new_score=0.12210074475469372 {'max_depth': 6, 'learning_rate': 0.01, 'n_estimators': 1000, 'min_child_weight': 1, 'colsample_bytree': 0.7, 'subsample': 0.7, 'reg_alpha': 0.5, 'reg_lambda': 1.1, 'num_parallel_tree': 1, 'random_state': 1819470395835543}
+.......... Unsuccessful 1.
+.......... new_score=0.12185098118514619 {'max_depth': 6, 'learning_rate': 0.01, 'n_estimators': 1000, 'min_child_weight': 1, 'colsample_bytree': 0.63, 'subsample': 0.7, 'reg_alpha': 0.5, 'reg_lambda': 1.1, 'num_parallel_tree': 1, 'random_state': 1819968670699856}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... new_score=0.12077041486930037 {'max_depth': 6, 'learning_rate': 0.01, 'n_estimators': 1000, 'min_child_weight': 2, 'colsample_bytree': 0.63, 'subsample': 0.7, 'reg_alpha': 0.5, 'reg_lambda': 1.1, 'num_parallel_tree': 1, 'random_state': 1820900838712103}
+.......... new_score=0.1206017509636842 {'max_depth': 6, 'learning_rate': 0.01, 'n_estimators': 1000, 'min_child_weight': 2, 'colsample_bytree': 0.63, 'subsample': 0.7, 'reg_alpha': 0.5, 'reg_lambda': 1.1, 'num_parallel_tree': 2, 'random_state': 1821279883068508}
+.......... new_score=0.12028066079677724 {'max_depth': 6, 'learning_rate': 0.01, 'n_estimators': 1000, 'min_child_weight': 2, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.5, 'reg_lambda': 1.1, 'num_parallel_tree': 2, 'random_state': 1821656126069206}
+.......... new_score=0.12006886554806158 {'max_depth': 6, 'learning_rate': 0.01, 'n_estimators': 1000, 'min_child_weight': 2, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.1, 'num_parallel_tree': 2, 'random_state': 1822037095000047}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... new_score=0.11973122144426193 {'max_depth': 6, 'learning_rate': 0.011, 'n_estimators': 1000, 'min_child_weight': 2, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.1, 'num_parallel_tree': 2, 'random_state': 1823583301710679}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... new_score=0.11971268097390035 {'max_depth': 6, 'learning_rate': 0.011, 'n_estimators': 1000, 'min_child_weight': 2, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.1, 'num_parallel_tree': 1, 'random_state': 1824645973992013}
+.......... new_score=0.11943452168584068 {'max_depth': 6, 'learning_rate': 0.011, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.1, 'num_parallel_tree': 1, 'random_state': 1824891734413412}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... new_score=0.11931005637287288 {'max_depth': 6, 'learning_rate': 0.0121, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.1, 'num_parallel_tree': 1, 'random_state': 1826130856375597}
+.......... Unsuccessful 1.
+.......... new_score=0.11919413335069065 {'max_depth': 6, 'learning_rate': 0.0121, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 1, 'random_state': 1826639605747055}
+.......... new_score=0.11914193568587568 {'max_depth': 6, 'learning_rate': 0.0121, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 2, 'random_state': 1827066769053938}
+.......... new_score=0.11904279748243392 {'max_depth': 6, 'learning_rate': 0.0121, 'n_estimators': 1100, 'min_child_weight': 3, 'colsample_bytree': 0.567, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 2, 'random_state': 1827504830948076}
+.......... new_score=0.11902172079158183 {'max_depth': 6, 'learning_rate': 0.0121, 'n_estimators': 1100, 'min_child_weight': 3, 'colsample_bytree': 0.5103, 'subsample': 0.7, 'reg_alpha': 0.45, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 2, 'random_state': 1827925733176522}
+.......... new_score=0.11898595950208221 {'max_depth': 6, 'learning_rate': 0.0121, 'n_estimators': 1100, 'min_child_weight': 3, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 2, 'random_state': 1828323391364994}
+.......... new_score=0.11878128860087729 {'max_depth': 6, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 3, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 2, 'random_state': 1828727225193436}
+.......... new_score=0.11874334263737041 {'max_depth': 7, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 3, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 2, 'random_state': 1829182926176687}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... new_score=0.11860543589011951 {'max_depth': 6, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 3, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 2, 'random_state': 1839605230211011}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... new_score=0.11859755163789851 {'max_depth': 6, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 3, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45140625, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 2, 'random_state': 1853850583336137}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... new_score=0.11858227470460658 {'max_depth': 6, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 3, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45140625, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 3, 'random_state': 1867392197195269}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... new_score=0.11857322012626621 {'max_depth': 6, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45140625, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 3, 'random_state': 1872206375230089}
+.......... new_score=0.11849455551199006 {'max_depth': 5, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45140625, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 3, 'random_state': 1872672166345558}
+.......... Unsuccessful 1.
+.......... new_score=0.11848780831703362 {'max_depth': 5, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.45122991943359375, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 3, 'random_state': 1873587308386104}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... new_score=0.11844347949588115 {'max_depth': 5, 'learning_rate': 0.013309999999999999, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.4512739848554134, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 3, 'random_state': 1883729022684832}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... new_score=0.11834762185908351 {'max_depth': 5, 'learning_rate': 0.013309350097656249, 'n_estimators': 1100, 'min_child_weight': 2, 'colsample_bytree': 0.5103, 'subsample': 0.63, 'reg_alpha': 0.4512739848554134, 'reg_lambda': 1.2100000000000002, 'num_parallel_tree': 3, 'random_state': 1892390163807340}
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+.......... Unsuccessful 1.
+.......... Unsuccessful 2.
+.......... Unsuccessful 3.
+.......... Unsuccessful 4.
+.......... Unsuccessful 5.
+.......... Unsuccessful 6.
+.......... Unsuccessful 7.
+.......... Unsuccessful 8.
+.......... Unsuccessful 9.
+.......... Unsuccessful 10.
+...
